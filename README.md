@@ -1,4 +1,4 @@
-<img width="1920" height="8338" alt="sc1" src="https://github.com/user-attachments/assets/476fc8fa-ad95-45f6-bd2d-84d1762a081c" /># Resume-Screening-App
+
 
 SOURCE
 Extracting user's information from the Resume, I used PyResparser
